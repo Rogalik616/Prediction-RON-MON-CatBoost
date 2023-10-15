@@ -1,0 +1,86 @@
+2-Methyl-2-butanol 	:
+RON_1 и RON_2 были изменены с 111, 111 до 97 и 97 соответственно 
+
+2,2,3-Trimethylpentane  :
+RON_3 был изменен с 99.9 до 109.6 
+
+4-Octene (trans)   	:
+RON_3 был изменен с 94.6 до 73.3 
+
+1,2-Dimethylbenzene     :
+RON_4 был изменен с 105 до 120 
+
+1,3-Dimethylbenzene     :
+# Соединение удалено
+
+1,4-Dimethylbenzene     :
+# Соединение удалено
+
+Benzene                 :
+RON_3 был изменен с 90 на 120 
+
+n-Propylbenzene         :
+RON_1, RON_2, RON_3 были изменены на 101.5 соответственно 
+                                                                                                                                  
+iso-Propylbenzene       :
+RON_1 и RON_3 были изменены с 113.0 на 102.1 
+
+1,3,5-Trimethylbenzene  :
+# Соединение удалено
+
+2-Methoxy-2-methylpropane:
+RON_2 был изменен с 110 на 118.3 
+
+1-Propanol		:
+MON_4 был изменен с 98 на 89
+
+1-Hexanol		:
+# MON для этого соединения был убран
+
+Propene			:
+MON_4 был изменен с 75.6 на 84.9
+
+2-Butene		:
+MON_3 был изменен с 99.9 на 83.5
+
+3,3-Dimethyl-1-butene   :
+MON_2 был изменен с 117.7 на 93.3
+
+2-Methyl-1-hexene	:
+MON_4 был изменен с 71.5 на
+
+4-Methyl-1-hexene 	:
+MON_4 был изменен с 64 на 74
+
+5-Methyl-1-hexene	:
+MON_4 был изменен с 79.2 на 64
+
+2-Methyl-3-heptene (trans):
+MON_2 был изменен с 94.6 на 80.5
+
+2-Pentene		:
+MON_2 был изменен с 77.2 на 87.8
+
+Benzene			:
+MON_3 был изменен с 92 на 115
+
+Ethylbenzene		:
+MON_3 был изменен с 124 на 97.9
+
+n-Propylbenzene		:
+MON_3 был изменен с 127 на 98.7
+
+Ethylcyclopentane	:
+MON_2 был изменен с 41 на 61.2
+
+Ethyl levulinate	:
+MON_4 был изменен с 112 на 102
+
+2-Propanone 		:
+# Соединение удалено
+
+
+
+
+ 
+
